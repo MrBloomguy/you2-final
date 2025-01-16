@@ -228,7 +228,7 @@ const Editor = ({ post }) => {
                 <div className="absolute left-0 mt-2 w-48 bg-white rounded-lg shadow-lg py-1 z-10 max-h-64 overflow-y-auto">
                   {[
                     "projects", "ai-agents", "dapps", "public-goods", "events",
-                    "research", "governance", "tutorials", "announcements",
+                    "research", "prediction-markets", "governance", "tutorials", "announcements",
                     "discussions", "nfts", "defi", "dao", "gaming", "metaverse",
                     "infrastructure", "security", "privacy", "scaling", "layer2"
                   ].map((cat) => (
